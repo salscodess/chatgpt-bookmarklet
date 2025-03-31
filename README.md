@@ -6,7 +6,7 @@
 
 - Required
   Google Chome or a browser to execute javascript
-  OpenAi Api key
+  <br/>OpenAi Api key
   -----
 
   ----
