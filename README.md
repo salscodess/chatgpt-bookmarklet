@@ -1,5 +1,5 @@
 ## Made by Salscodesss
-## https:salsoftware.online
+## [https:salsoftware.online](https://salsoftware.online/)
 ----
 
 # Chatgpt Bookmarklet
